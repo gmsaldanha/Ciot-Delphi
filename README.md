@@ -383,3 +383,25 @@ Abra um Pull Request
 Desenvolvido para atender à obrigatoriedade da ANTT a partir de 24/05/2026
 
 ⚠️ Aviso Legal: Este software é fornecido "como está", sem garantias de qualquer tipo. A responsabilidade pelo uso correto e conformidade com a legislação é do usuário. Sempre verifique as atualizações das regras da ANTT.
+
+
+
+
+
+# 💰 **APOIE O PROJETO**
+
+> ⭐ **Se este projeto te ajudou, considere fazer uma doação para apoiar o desenvolvimento contínuo!** ⭐
+
+---
+
+## 📱 **QR Code Pix**
+
+<p align="center">
+  <a href="images/qrcodegmsaldanhaMP.png" target="_blank">
+    <img src="images/qrcodegmsaldanhaMP.png" alt="QR Code Pix - Doação" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>🔑 Chave Pix:</strong> <code>gmscomputadores@bol.com.br</code>
+</p>
