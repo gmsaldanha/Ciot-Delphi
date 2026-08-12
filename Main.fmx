@@ -1,0 +1,26 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Gerador Ciot'
+  ClientHeight = 480
+  ClientWidth = 874
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object ScaledLayout1: TScaledLayout
+    Align = Client
+    OriginalWidth = 874.000000000000000000
+    OriginalHeight = 480.000000000000000000
+    Size.Width = 874.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    object Layout1: TLayout
+      Align = Client
+      Size.Width = 874.000000000000000000
+      Size.Height = 480.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+    end
+  end
+end

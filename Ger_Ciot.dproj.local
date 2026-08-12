@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/22 07:42:29.000.446,=C:\Users\gms\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/06/23 12:49:58.000.628,=C:\Users\gms\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/06/23 12:50:58.000.018,C:\Users\gms\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Gms1\NFE\Gerador de Ciot\Main.dfm</Transaction>
+    <Transaction>2026/06/23 12:50:58.000.018,C:\Users\gms\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Gms1\NFE\Gerador de Ciot\Main.pas</Transaction>
+    <Transaction>2026/06/23 12:51:06.000.176,C:\Users\gms\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Gms1\NFE\Gerador de Ciot\Ger_Ciot.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
