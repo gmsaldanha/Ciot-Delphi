@@ -64,10 +64,10 @@ RNTRC (Registro Nacional de Transportadores Rodoviários de Carga)
 Certificado Digital do transportador
 
 📦 Instalação
-1. Clonar o Repositório
+1. Clonar o Repositório 
 bash
-git clone https://github.com/seu-usuario/ciot-frota-propria.git
-cd ciot-frota-propria
+git clone https://github.com/gmsaldanha/Ciot-Delphi.git
+
 2. Instalar Componentes ACBr
 text
 - Baixe o ACBr Framework em: https://acbr.sourceforge.io/
